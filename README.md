@@ -1,2 +1,2 @@
-# gstreamer-docker
-Simple GStreamer Docker image tracking Ubuntu rolling packages
+# GStreamer Docker
+Basic GStreamer image for Docker tracking Ubuntu rolling packages
