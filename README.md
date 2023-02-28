@@ -1,2 +1,2 @@
 # GStreamer Docker
-Basic GStreamer image for Docker tracking Ubuntu rolling packages
+Simple audio focused GStreamer image for Docker
